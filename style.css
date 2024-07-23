@@ -1,0 +1,14 @@
+body{
+    margin:0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+a{
+    color:black;
+}
+.a{
+    display:flex; justify-content: space-between;
+}
+.b{
+    text-align: center;
+}
