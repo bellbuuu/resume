@@ -1,2 +1,1 @@
-
-[Beas' resume.pdf](https://github.com/user-attachments/files/16344282/Beas.resume.pdf)
+[resume 1.pdf](https://github.com/user-attachments/files/16417722/resume.1.pdf)
